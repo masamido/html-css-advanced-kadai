@@ -70,7 +70,7 @@ PC用のスタイル
  =====================*/
  @media screen and (max-width: 767px){
 body{
-  min-width: 375px
+  min-width: 375px;
   margin: 0;
 }
 /* PC用ナビゲーション非表示 */
@@ -80,7 +80,6 @@ body{
 
 /* ハンバーガーメニュー */
 #menu-sp {
-  display: block;
   float: right;
   padding: 0;
   background-color: transparent;
